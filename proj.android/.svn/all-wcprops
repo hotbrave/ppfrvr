@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/paopaobox/!svn/ver/242/3/ppfrvr/proj.android
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/paopaobox/!svn/ver/230/3/ppfrvr/proj.android/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/paopaobox/!svn/ver/230/3/ppfrvr/proj.android/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/paopaobox/!svn/ver/343/3/ppfrvr/proj.android/.project
+END
+build-cfg.json
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/paopaobox/!svn/ver/197/3/ppfrvr/proj.android/build-cfg.json
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/paopaobox/!svn/ver/197/3/ppfrvr/proj.android/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/paopaobox/!svn/ver/197/3/ppfrvr/proj.android/AndroidManifest.xml
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/paopaobox/!svn/ver/197/3/ppfrvr/proj.android/.cproject
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/paopaobox/!svn/ver/197/3/ppfrvr/proj.android/README.md
+END
+build_native.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/paopaobox/!svn/ver/197/3/ppfrvr/proj.android/build_native.py
+END
+ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/paopaobox/!svn/ver/197/3/ppfrvr/proj.android/ant.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/paopaobox/!svn/ver/197/3/ppfrvr/proj.android/build.xml
+END
